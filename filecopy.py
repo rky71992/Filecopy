@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 #!/usr/bin/python
-import sys
 import os
-import hashlib
-import shutil
-from datetime import datetime
 import logging
 import json
 with open("/home/mediaworker/Config_files/config_filecpy.json") as configfile:
