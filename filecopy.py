@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #!/usr/bin/python
 import os
+import shutil
 import logging
 import json
 with open("/home/mediaworker/Config_files/config_filecpy.json") as configfile:
