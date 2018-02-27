@@ -1,0 +1,7 @@
+{
+	"path":{
+		"src":"/home/mediaworker/Copyfile/Source",
+		"dest":"/home/mediaworker/Copyfile/Destination",
+		"log":"/home/mediaworker/Log/log_filecpy.txt"
+	}
+}
