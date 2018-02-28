@@ -13,7 +13,6 @@ initial_source_path = data["path"]["src"]
 final_source_path = data["path"]["dest"]
 logging.basicConfig(filename = logpath, level = logging.DEBUG)
 
-print initial_source_path
 def copy(file):
 	shutil.copy2(os.path.join(src,file), dest)
 	logging.info("Copying-->" + file)
